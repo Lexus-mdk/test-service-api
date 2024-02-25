@@ -3,7 +3,7 @@
 namespace console\controllers;
 
 use console\models\LogService;
-use console\models\TaskService\TaskService;
+use console\models\TaskService;
 use yii\console\ExitCode;
 use yii\di\Container;
 

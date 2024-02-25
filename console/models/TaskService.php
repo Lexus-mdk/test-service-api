@@ -1,8 +1,9 @@
 <?php
 
-namespace console\models\TaskService;
+namespace console\models;
 
-use console\models\ApiRequestService;
+use console\models\TaskService\TaskRecord;
+use console\models\TaskService\TaskRepository;
 
 class TaskService
 {
